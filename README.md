@@ -1,5 +1,4 @@
-# 🕹️ Coin Collector - Pygame Assignment
-
+# 🕹️ Coin Collector 
 A single-level collection game built using Python and the Pygame library. Navigate the hero to collect all items while avoiding hazardous zones.
 
 ---
