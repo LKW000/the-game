@@ -59,8 +59,10 @@ class Player:
             self.is_grounded = False
 
     def reset(self):
-        self.rect.midbottom = (100, 550)
-        self.velocity_y = 0
+         self.rect.x = 100 
+         self.rect.y = 500
+         self.velocity_y = 0
+
 
     def draw(self, surface):
         surface.blit(self.image, self.rect)
